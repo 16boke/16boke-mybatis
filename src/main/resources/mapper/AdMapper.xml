@@ -31,4 +31,43 @@
 	<delete id="update" parameterType="com.model.AdBase">
 		update ad_base set ad_name=#{adName},pdate_from=#{pdateFrom},pdate_end=#{pdateEnd} where id=#{id}
 	</delete>
+	<select id="findByIdsList" resultMap="BaseResultMap">
+		select * from ad_base 
+		where id in
+		<!-- collection:传入参数的名称 index:索引： item:collection的别名 -->
+		<!-- 如果只有一个参数，且参数的类型是List, 则在使用时，collection属性要必须指定为 list -->
+		<foreach collection="list" item="item" index="index" open="(" separator="," close=")">
+			#{item}
+		</foreach>
+	</select>
+	<select id="findByIdsArray" resultMap="BaseResultMap">
+		select * from ad_base 
+		where id in
+		<!-- collection:传入参数的名称 index:索引： item:collection的别名 -->
+		<!-- 如果只有一个参数，且参数的类型是Array,则在使用时，collection属性要必须指定为 array -->
+		<foreach collection="array" item="item" index="index" open="(" separator="," close=")">
+			#{item}
+		</foreach>
+	</select>
+	<select id="findByNameAndIds" resultMap="BaseResultMap">
+		select * from ad_base 
+		where ad_name like CONCAT('%',#{adName},'%') and id in
+		<!-- collection:传入参数的名称 index:索引： item:collection的别名 -->
+		<!-- 如果只有一个参数，且参数的类型是Array,则在使用时，collection属性要必须指定为 array -->
+		<foreach collection="ids" item="item" index="index" open="(" separator="," close=")">
+			#{item}
+		</foreach>
+	</select>
+	
+	<select id="findByNameAndId1" resultMap="BaseResultMap">
+		select * from ad_base 
+		<!-- 多个参数，参数下标从0开始 -->
+		where ad_name like CONCAT('%',#{0},'%') and id = #{1}
+	</select>
+	
+	<select id="findByNameAndId2" resultMap="BaseResultMap">
+		select * from ad_base 
+		<!-- 多个参数，DAO采用注解方式 -->
+		where ad_name like CONCAT('%',#{adName},'%') and id = #{id}
+	</select>
 </mapper>
