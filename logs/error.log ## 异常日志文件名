@@ -1,0 +1,105 @@
+2016-08-04 16:20:08 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:20:09 [ main:398 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:20:09 [ main:470 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:20:09 [ main:471 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:20:09 [ main:471 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:20:09 [ main:471 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:20:09 [ main:477 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:20:09 [ main:477 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:20:09 [ main:478 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:20:09 [ main:479 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:20:09 [ main:479 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2016-08-04 16:20:09 [ main:480 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:20:09 [ main:480 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:20:09 [ main:632 ] - [ DEBUG ] Reader entry: AdMapper.xml
+2016-08-04 16:20:09 [ main:632 ] - [ DEBUG ] Listing file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:20:09 [ main:633 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:20:09 [ main:635 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:20:09 [ main:635 ] - [ DEBUG ] Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2016-08-04 16:21:14 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:21:14 [ main:76 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:21:14 [ main:91 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:14 [ main:92 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:14 [ main:92 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:14 [ main:92 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:14 [ main:96 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:21:14 [ main:96 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:21:14 [ main:97 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:21:14 [ main:98 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:21:14 [ main:98 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2016-08-04 16:21:14 [ main:99 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:21:14 [ main:99 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:21:15 [ main:140 ] - [ DEBUG ] Reader entry: AdMapper.xml
+2016-08-04 16:21:15 [ main:141 ] - [ DEBUG ] Listing file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:21:15 [ main:141 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:21:15 [ main:145 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:21:15 [ main:145 ] - [ DEBUG ] Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2016-08-04 16:21:26 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:21:26 [ main:72 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:21:26 [ main:89 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:26 [ main:89 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:26 [ main:89 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:26 [ main:90 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:21:26 [ main:94 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:21:26 [ main:94 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:21:26 [ main:95 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:21:26 [ main:95 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:21:26 [ main:96 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2016-08-04 16:21:26 [ main:96 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:21:26 [ main:96 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:21:26 [ main:128 ] - [ DEBUG ] Reader entry: AdMapper.xml
+2016-08-04 16:21:26 [ main:129 ] - [ DEBUG ] Listing file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:21:26 [ main:129 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:21:26 [ main:130 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:21:26 [ main:131 ] - [ DEBUG ] Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2016-08-04 16:23:53 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:23:53 [ main:87 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:23:53 [ main:111 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:23:53 [ main:112 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:23:53 [ main:112 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:23:53 [ main:112 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:23:53 [ main:120 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:23:53 [ main:120 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:23:53 [ main:121 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:23:53 [ main:122 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:23:53 [ main:122 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2016-08-04 16:23:53 [ main:123 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:23:53 [ main:123 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:23:53 [ main:170 ] - [ DEBUG ] Reader entry: AdMapper.xml
+2016-08-04 16:23:53 [ main:170 ] - [ DEBUG ] Listing file:/E:/workspace/16boke-mybatis/target/classes/mapper
+2016-08-04 16:23:53 [ main:170 ] - [ DEBUG ] Find JAR URL: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:23:53 [ main:173 ] - [ DEBUG ] Not a JAR: file:/E:/workspace/16boke-mybatis/target/classes/mapper/AdMapper.xml
+2016-08-04 16:23:53 [ main:174 ] - [ DEBUG ] Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2016-08-04 16:26:11 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:26:11 [ main:89 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:26:11 [ main:107 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:26:11 [ main:107 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:26:11 [ main:108 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:26:11 [ main:108 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:26:11 [ main:113 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:26:11 [ main:113 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:26:11 [ main:114 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:26:11 [ main:115 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:26:11 [ main:115 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2016-08-04 16:27:19 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:27:19 [ main:71 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:27:19 [ main:86 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:19 [ main:86 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:19 [ main:86 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:19 [ main:86 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:19 [ main:90 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:27:19 [ main:90 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:27:19 [ main:91 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:27:19 [ main:91 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:27:19 [ main:92 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2016-08-04 16:27:47 [ main:0 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:27:47 [ main:67 ] - [ DEBUG ] Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-08-04 16:27:47 [ main:82 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:47 [ main:82 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:47 [ main:82 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:47 [ main:82 ] - [ DEBUG ] PooledDataSource forcefully closed/removed all connections.
+2016-08-04 16:27:47 [ main:91 ] - [ DEBUG ] Class not found: org.jboss.vfs.VFS
+2016-08-04 16:27:47 [ main:91 ] - [ DEBUG ] JBoss 6 VFS API is not available in this environment.
+2016-08-04 16:27:47 [ main:92 ] - [ DEBUG ] Class not found: org.jboss.vfs.VirtualFile
+2016-08-04 16:27:47 [ main:92 ] - [ DEBUG ] VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2016-08-04 16:27:47 [ main:93 ] - [ DEBUG ] Using VFS adapter org.apache.ibatis.io.DefaultVFS
